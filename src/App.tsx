@@ -1,4 +1,4 @@
-import Component from "./starter/03-state";
+import Component from "./starter/10-tasks";
 
 function App() {
   return (
